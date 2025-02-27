@@ -1,0 +1,11 @@
+527.cam4_r,1228.67969
+607.cactuBSSN_s,7099.28516
+638.imagick_s,7384.51562
+502.gcc_r,1760.44531
+jemalloc,521.wrf_r,561.64844
+jemalloc,521.wrf_r,562.86328
+tcmalloc,521.wrf_r,1149.10156
+jemalloc,521.wrf_r,561.75391
+tcmalloc,521.wrf_r,1146.7968799999999
+jemalloc,644.nab_s,1008.26562
+tcmalloc,644.nab_s,2058.33203
