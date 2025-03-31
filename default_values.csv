@@ -9,3 +9,7 @@ jemalloc,521.wrf_r,561.75391
 tcmalloc,521.wrf_r,1146.7968799999999
 jemalloc,644.nab_s,1008.26562
 tcmalloc,644.nab_s,2058.33203
+jemalloc,620.omnetpp_s,1365.19531
+tcmalloc,620.omnetpp_s,1706.8476500000002
+jemalloc,620.omnetpp_s,251.46484
+tcmalloc,620.omnetpp_s,502.91406
